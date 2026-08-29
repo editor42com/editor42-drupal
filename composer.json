@@ -1,0 +1,24 @@
+{
+    "name": "editor42/editor42-drupal",
+    "description": "Editor42, the free MIT-licensed WYSIWYG HTML editor, as a Drupal library: the same build as editor42/editor42, installed into web/libraries/editor42.",
+    "type": "drupal-library",
+    "license": "MIT",
+    "homepage": "https://editor42.com",
+    "keywords": ["editor42", "wysiwyg", "rich text editor", "html editor", "drupal"],
+    "authors": [
+        {
+            "name": "Editor42 contributors",
+            "homepage": "https://editor42.com"
+        }
+    ],
+    "support": {
+        "docs": "https://editor42.com/docs/install/composer",
+        "issues": "https://github.com/editor42com/editor42/issues",
+        "source": "https://github.com/editor42com/editor42",
+        "security": "https://editor42.com/docs/security",
+        "email": "hello@editor42.com"
+    },
+    "extra": {
+        "installer-name": "editor42"
+    }
+}
